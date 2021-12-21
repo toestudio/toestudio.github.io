@@ -1,3 +1,4 @@
+yandex.com, 40427798, RESELLER
 exchange.admazing.co, AM3, RESELLER
 meitu.com, 282, RESELLER
 unity.com, 2705027, DIRECT, 96cabb5fbdde37a7

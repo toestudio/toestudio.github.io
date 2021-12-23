@@ -53,3 +53,11 @@ contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
 inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d
 telaria.com, rwd19-2705027, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-2705027, RESELLER, 1a4e959a1b50034a
+applovin.com, 1b1ada6daaac2771df5a1c7302442072, DIRECT
+adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
+rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
+openx.com, 540785403, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
+pubnative.net, 1007170, RESELLER, d641df8625486a7b
+Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
+indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8f
